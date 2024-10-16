@@ -84,6 +84,7 @@ Response:
 
 1. **Build the Project**: 
    ```bash
+   gradle wrapper
    ./gradlew build
    ```
 
