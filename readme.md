@@ -32,7 +32,7 @@ Response:
 ```
 
 2. **Submit Limit Order**
-   - **Endpoint**: `/api/orders/limit`
+   - **Endpoint**: `/orders/limit`
    - **Method**: POST
    - **Headers**: Authorization: Your api key
    - **Request Body**: 
